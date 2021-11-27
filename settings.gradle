@@ -1,0 +1,2 @@
+rootProject.name = 'gamma'
+include('gamma-actor','gamma-api','gamma-common')
