@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b2bf2e2-8e9c-462d-88c8-5433843a40eb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/gamma-actor/src/main/java/io/github/gamma/AbstractActor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gamma-actor/src/main/java/io/github/gamma/Actor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gamma-actor/src/main/java/io/github/gamma/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gamma-actor/src/main/java/io/github/gamma/LifeCycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gamma-actor/src/main/java/io/github/gamma/NormalActor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gamma-actor/src/main/java/io/github/gamma/TcpActor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +108,7 @@
       <workItem from="1637993432738" duration="216000" />
       <workItem from="1637993656129" duration="920000" />
       <workItem from="1638177002693" duration="242000" />
-      <workItem from="1638458534367" duration="636000" />
+      <workItem from="1638458534367" duration="849000" />
     </task>
     <task id="LOCAL-00001" summary="Init project">
       <created>1637994545527</created>
